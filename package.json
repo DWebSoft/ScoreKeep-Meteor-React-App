@@ -22,5 +22,8 @@
       "server": "server/main.js"
     },
     "testModule": "test/main.js"
+  },
+  "engines": {
+    "node": "8.11.3"
   }
 }
