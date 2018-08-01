@@ -6,4 +6,4 @@ Check this application live at: https://dscorekeep.herokuapp.com/
 
 ## Author
 
-DWebSoftGuy
+DWebSoft
